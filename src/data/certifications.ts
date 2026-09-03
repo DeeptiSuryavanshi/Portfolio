@@ -38,18 +38,6 @@ export const CERTIFICATIONS_DATA: Certification[] = [
     status: 'Verified',
   },
   {
-    id: 'cert-build-with-ai-agent-builder',
-    title: 'Build with AI – Agent Builder Camp',
-    issuer: 'GeeksforGeeks & Google for Developers',
-    year: '2026',
-    issueDate: '2026',
-    credentialId: 'GFG-GOOGLE-AI-2026',
-    credentialUrl: 'https://www.linkedin.com/in/deepti-suryavanshi-00ba012b9/recent-activity/all/',
-    skills: ['AI Agents", "Automation Workflows", "Location Intelligence", "AI System Design'],
-    icon: 'Bot',
-    status: 'Verified',
-  },
-  {
     id: 'cert-deloitte-data-analytics',
     title: 'Data Analytics Job Simulation',
     issuer: 'Deloitte (via Forage)',
