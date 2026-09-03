@@ -26,12 +26,12 @@ export const ACHIEVEMENTS_DATA: Achievement[] = [
   {
     id: 'ach-projects',
     category: 'Projects',
-    title: 'Best Distributed Systems Capstone',
+    title: 'Distributed Systems Capstone Project',
     issuer: 'Engineering Faculty Department',
     date: '2025',
-    badge: '1st Place Honor',
+    badge: 'Capstone Finalist',
     description:
-      'Awarded first place among final-year capstone presentations for novel simulation and load-balancing algorithm design in IoT Fog Computing.',
+      'Presented distributed systems capstone project evaluated on cloud performance and system architecture.',
     metrics: '34.2% latency reduction over cloud baselines',
   },
   {
@@ -39,7 +39,7 @@ export const ACHIEVEMENTS_DATA: Achievement[] = [
     category: 'Certifications',
     title: 'Academic & Industry Credentials',
     issuer: 'Google, TESRECO & University',
-    date: '2025 - 2026',
+    date: '2023 - 2027',
     badge: '4+ Verified Credentials',
     description:
       'Earned rigorous certifications across Python programming, Generative AI models, distributed systems, and machine learning fundamentals.',
